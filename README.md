@@ -1,10 +1,21 @@
 # Jarvis - Personal AI Assistant
 
 <p align="center">
-  <img src="jarvis/jarvis.PNG" alt="Jarvis Logo" width="200"/>
+  <img src="jarvis.PNG" alt="Jarvis Logo" width="200"/>
 </p>
 
 Jarvis is an advanced personal AI assistant built in Python with natural language processing capabilities, voice recognition, and a desktop interface. Inspired by Iron Man's AI companion, Jarvis helps you interact with your computer, access information, and perform tasks using natural language.
+
+## Technologies Used
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Qt">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+  <img src="https://img.shields.io/badge/FAISS-FB4D6C?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS">
+  <img src="https://img.shields.io/badge/Ollama-00A8E1?style=for-the-badge&logo=llama&logoColor=white" alt="Ollama">
+</p>
 
 ## Features
 
@@ -124,4 +135,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Author
 
-Created by [Harsha Vippala](https://github.com/HarshaVippala) 
+Created by [Harsha Vippala](https://github.com/HarshaVippala)
