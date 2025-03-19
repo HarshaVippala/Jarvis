@@ -1,0 +1,300 @@
+{
+  "conversation_history": [
+    {
+      "timestamp": "2025-03-18T17:28:31.163901",
+      "user_input": "What is the current time and date?",
+      "assistant_response": "The current date and time is March 18, 2025 at 17:28:29."
+    },
+    {
+      "timestamp": "2025-03-18T17:30:11.185225",
+      "user_input": "Can you create a text file called 'test.txt' with the content 'Hello from Jarvis!'?",
+      "assistant_response": "I have created the text file 'test.txt' with the content 'Hello from Jarvis!'. You can find it at this location: /Users/harshavippala/Jarvis/jarvis/test.txt."
+    },
+    {
+      "timestamp": "2025-03-18T17:30:26.556022",
+      "user_input": "Can you tell me some information about my system?",
+      "assistant_response": "Here is some information about your system:\n\n- Operating System: Darwin\n- OS Version: Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:22 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T6041\n- Architecture: x86_64\n- Processor: i386\n- Hostname: MacBook-Pro.attlocal.net\n- Python Version: 3.9.4 (default, Apr  5 2021, 01:49:30) \\n[Clang 12.0.0 (clang-1200.0.32.29)]\n- CPU Usage: 0.0%\n- Memory Usage: 91.6%\n- Disk Usage: 2.7%"
+    },
+    {
+      "timestamp": "2025-03-18T18:02:22.727692",
+      "user_input": "What's the weather today?",
+      "assistant_response": "I have initiated a web search for the current weather. Please check your default web browser for the results."
+    },
+    {
+      "timestamp": "2025-03-18T18:19:46.378116",
+      "user_input": "Hi.",
+      "assistant_response": "Hello! How can I assist you today?"
+    },
+    {
+      "timestamp": "2025-03-18T18:20:00.400552",
+      "user_input": "What is the weather in Irving, Texas?",
+      "assistant_response": "I have initiated a web search for the current weather in Irving, Texas. Please check your default web browser for the results."
+    },
+    {
+      "timestamp": "2025-03-18T18:22:26.056534",
+      "user_input": "Tell me about my computer.",
+      "assistant_response": "Here is some information about your system:\n\n- Operating System: Darwin\n- OS Version: Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:22 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T6041\n- Architecture: x86_64\n- Processor: i386\n- Hostname: MacBook-Pro.attlocal.net\n- Python Version: 3.9.4 (default, Apr  5 2021, 01:49:30) \\n[Clang 12.0.0 (clang-1200.0.32.29)]\n- CPU Usage: 0.0%\n- Memory Usage: 92.3%\n- Disk Usage: 2.7%"
+    },
+    {
+      "timestamp": "2025-03-18T18:22:54.811124",
+      "user_input": "Can you create a text file?",
+      "assistant_response": "I have successfully created a new text file at the location: /Users/harshavippala/Jarvis/jarvis/new_file.txt. The file contains the text: \"This is a new text file created by Jarvis.\""
+    },
+    {
+      "timestamp": "2025-03-18T18:31:59.725913",
+      "user_input": "Can you open the browser?",
+      "assistant_response": "I have successfully opened your default web browser with Google as the homepage."
+    },
+    {
+      "timestamp": "2025-03-18T18:36:02.648237",
+      "user_input": "Can you open the downloads folder?",
+      "assistant_response": "I'm sorry for the inconvenience. It appears there was an error trying to open the folder. Currently, I'm not able to open folders directly. However, you can access it manually by navigating to the 'Downloads' folder in your system."
+    },
+    {
+      "timestamp": "2025-03-18T18:37:41.973746",
+      "user_input": "Can you open the Downloads folder?",
+      "assistant_response": "I have successfully opened the 'Downloads' folder."
+    },
+    {
+      "timestamp": "2025-03-18T18:40:43.758813",
+      "user_input": "I",
+      "assistant_response": "It seems like your message was cut off. Could you please provide more details?"
+    },
+    {
+      "timestamp": "2025-03-18T18:41:00.632794",
+      "user_input": "Hi, what's your name?",
+      "assistant_response": "Hello! My name is Jarvis, I'm an AI assistant here to help you with various tasks on your computer."
+    },
+    {
+      "timestamp": "2025-03-18T18:41:35.778955",
+      "user_input": "Can you open the browser for me?",
+      "assistant_response": "I have successfully opened your default web browser with Google as the homepage."
+    },
+    {
+      "timestamp": "2025-03-18T18:45:50.121904",
+      "user_input": "Aye.",
+      "assistant_response": "Hello! How can I assist you today?"
+    },
+    {
+      "timestamp": "2025-03-18T18:46:09.674013",
+      "user_input": "Can you open the browser and search for places to eat in Irving?",
+      "assistant_response": "I have opened your browser and initiated a web search for \"places to eat in Irving\". You should see the results shortly."
+    },
+    {
+      "timestamp": "2025-03-18T18:46:36.913343",
+      "user_input": "You sure? Yeah. ",
+      "assistant_response": "Yes, I've initiated the command to open your browser and perform the search. If you're facing any issues, please let me know. I'm here to assist you."
+    },
+    {
+      "timestamp": "2025-03-18T18:53:10.015997",
+      "user_input": "Can you search for best Indian places to eat?",
+      "assistant_response": "I have initiated a web search for \"best Indian restaurants\". You should see the results in your browser shortly."
+    },
+    {
+      "timestamp": "2025-03-18T23:26:32.042803",
+      "user_input": "Hi, what's your name?",
+      "assistant_response": "Hello! I'm Jarvis, your AI assistant. How can I assist you today?"
+    },
+    {
+      "timestamp": "2025-03-18T23:26:53.230957",
+      "user_input": "Can you open the browser and search for the best places to see in Dallas?",
+      "assistant_response": "I have opened your browser and initiated a web search for \"best places to see in Dallas\". You should see the results shortly."
+    },
+    {
+      "timestamp": "2025-03-18T23:27:10.436211",
+      "user_input": "Can you click the first link?",
+      "assistant_response": "I'm sorry for the inconvenience, but as an AI, I don't have the capability to control your mouse or keyboard. I can open websites or perform searches, but I can't interact with the content of the sites. You'll need to manually click on the link."
+    },
+    {
+      "timestamp": "2025-03-18T23:27:33.884231",
+      "user_input": "What do you see right now?",
+      "assistant_response": "As an AI, I don't have the ability to see or visually perceive things like a human. I can perform tasks and process information based on your requests. Let me know how I can assist you further."
+    },
+    {
+      "timestamp": "2025-03-18T23:28:12.696372",
+      "user_input": "Thanks.",
+      "assistant_response": "You're welcome! If you have any other questions or need further assistance, feel free to ask. Have a great day!"
+    }
+  ],
+  "user_preferences": {},
+  "command_history": [
+    {
+      "timestamp": "2025-03-18T17:28:36.386120",
+      "command_name": "create_text_file",
+      "kwargs": {},
+      "result": {
+        "success": false,
+        "error": "create_text_file() missing 2 required positional arguments: 'content' and 'file_path'"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T17:29:22.261142",
+      "command_name": "create_text_file",
+      "kwargs": {
+        "file_path": "test.txt",
+        "content": "Hello from Jarvis!"
+      },
+      "result": {
+        "success": true,
+        "result": "File created at: /Users/harshavippala/Jarvis/jarvis/test.txt"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T17:30:09.248391",
+      "command_name": "create_text_file",
+      "kwargs": {
+        "file_path": "test.txt",
+        "content": "Hello from Jarvis!"
+      },
+      "result": {
+        "success": true,
+        "result": "File created at: /Users/harshavippala/Jarvis/jarvis/test.txt"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T17:30:20.463578",
+      "command_name": "get_system_info",
+      "kwargs": {},
+      "result": {
+        "success": true,
+        "result": {
+          "os": "Darwin",
+          "os_version": "Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:22 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T6041",
+          "architecture": "x86_64",
+          "processor": "i386",
+          "hostname": "MacBook-Pro.attlocal.net",
+          "python_version": "3.9.4 (default, Apr  5 2021, 01:49:30) \n[Clang 12.0.0 (clang-1200.0.32.29)]",
+          "cpu_usage": "0.0%",
+          "memory_usage": "91.6%",
+          "disk_usage": "2.7%"
+        }
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:02:21.566871",
+      "command_name": "search_web",
+      "kwargs": {
+        "query": "current weather"
+      },
+      "result": {
+        "success": true,
+        "result": "Web search initiated for: current weather"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:19:58.526417",
+      "command_name": "search_web",
+      "kwargs": {
+        "query": "weather in Irving, Texas"
+      },
+      "result": {
+        "success": true,
+        "result": "Web search initiated for: weather in Irving, Texas"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:22:20.234032",
+      "command_name": "get_system_info",
+      "kwargs": {},
+      "result": {
+        "success": true,
+        "result": {
+          "os": "Darwin",
+          "os_version": "Darwin Kernel Version 24.3.0: Thu Jan  2 20:24:22 PST 2025; root:xnu-11215.81.4~3/RELEASE_ARM64_T6041",
+          "architecture": "x86_64",
+          "processor": "i386",
+          "hostname": "MacBook-Pro.attlocal.net",
+          "python_version": "3.9.4 (default, Apr  5 2021, 01:49:30) \n[Clang 12.0.0 (clang-1200.0.32.29)]",
+          "cpu_usage": "0.0%",
+          "memory_usage": "92.3%",
+          "disk_usage": "2.7%"
+        }
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:22:52.151344",
+      "command_name": "create_text_file",
+      "kwargs": {
+        "file_path": "new_file.txt",
+        "content": "This is a new text file created by Jarvis."
+      },
+      "result": {
+        "success": true,
+        "result": "File created at: /Users/harshavippala/Jarvis/jarvis/new_file.txt"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:31:58.693694",
+      "command_name": "open_browser",
+      "kwargs": {},
+      "result": {
+        "success": true,
+        "result": "Browser opened with URL: https://www.google.com"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:36:00.305625",
+      "command_name": "open_folder",
+      "kwargs": {
+        "directory_path": "~/Downloads"
+      },
+      "result": {
+        "success": false,
+        "error": "open_folder() got an unexpected keyword argument 'directory_path'"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:37:40.430673",
+      "command_name": "open_folder",
+      "kwargs": {
+        "directory_path": "~/Downloads"
+      },
+      "result": {
+        "success": true,
+        "result": "Opened folder: /Users/harshavippala/Downloads"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:41:34.511083",
+      "command_name": "open_browser",
+      "kwargs": {},
+      "result": {
+        "success": true,
+        "result": "Browser opened with URL: https://www.google.com"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:46:08.014546",
+      "command_name": "search_web",
+      "kwargs": {
+        "query": "places to eat in Irving"
+      },
+      "result": {
+        "success": true,
+        "result": "Web search initiated for: places to eat in Irving"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T18:53:08.972458",
+      "command_name": "search_web",
+      "kwargs": {
+        "query": "best Indian restaurants"
+      },
+      "result": {
+        "success": true,
+        "result": "Web search initiated for: best Indian restaurants"
+      }
+    },
+    {
+      "timestamp": "2025-03-18T23:26:51.802488",
+      "command_name": "open_browser",
+      "kwargs": {
+        "url": "https://www.google.com/search?q=best+places+to+see+in+Dallas"
+      },
+      "result": {
+        "success": true,
+        "result": "Browser opened with URL: https://www.google.com/search?q=best+places+to+see+in+Dallas"
+      }
+    }
+  ]
+}
