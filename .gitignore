@@ -171,3 +171,5 @@ data/vectorstore/
 *.db
 *.sqlite
 *.sqlite3 
+# Project specific virtual environment
+jarvis_venv/
