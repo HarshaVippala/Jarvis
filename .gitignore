@@ -173,3 +173,6 @@ data/vectorstore/
 *.sqlite3 
 # Project specific virtual environment
 jarvis_venv/
+
+# Temporary test files
+test.py
