@@ -4,7 +4,7 @@
   <img src="jarvis.PNG" alt="Jarvis Logo" width="200"/>
 </p>
 
-Jarvis is an advanced personal AI assistant built in Python with natural language processing capabilities, voice recognition, and a desktop interface. Inspired by Iron Man's AI companion, Jarvis helps you interact with your computer, access information, and perform tasks using natural language.
+Jarvis is an ambitious personal AI assistant project still in its early stages. Heavily inspired by Tony Stark's J.A.R.V.I.S. from Iron Man, this is my attempt to build a Jarvis myself from scratch. Most features are still being developed and are not yet fully functional, but I'm actively working on building this step by step.
 
 ## Technologies Used
 
