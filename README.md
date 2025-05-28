@@ -21,17 +21,24 @@ The current version supports voice input, memory persistence, and contextual con
   <img src="https://img.shields.io/badge/Ollama-00A8E1?style=for-the-badge&logo=llama&logoColor=white" alt="Ollama">
 </p>
 
-## Features
+## Current Implementation
 
-- **Voice Interaction**: Wake word detection and voice command processing
-- **Natural Language Processing**: Understanding and responding to queries
-- **Memory System**: Persistent storage of conversations and contexts
-- **Desktop Interface**: Modern UI with floating orb and conversation panels
-- **System Monitoring**: Track system performance and resource usage
-- **Activity Logs**: Keep track of all interactions with the assistant
-- **Vector Memory**: FAISS-powered semantic memory for contextual understanding
-- **Local Model Support**: Integration with Ollama for local LLM capabilities
-- **Tool Integration**: Execute system commands and access external services
+  - Orchestration Layer: A Python-driven main controller (main.py) initializes modules and routes inputs/outputs between components.
+	-	Brain (NLP & Reasoning): Utilizes OpenAI’s API for dialogue management; optional integration with local models via Ollama for offline use.
+	-	Memory System: Stores conversations and user metadata in local JSON files; FAISS provides semantic indexing for context retrieval.
+	-	Speech I/O: Whisper handles real-time transcription; Coqui TTS generates audio responses.
+	-	Desktop Interface: Built with PySide6 (Qt for Python), featuring a floating orb launcher, response panel, and system resource monitor.
+	-	Tool Integration: Custom modules execute system commands and manage local apps, coordinated by the core orchestrator.
+
+
+##Future Plans
+
+  - Edge-Optimized Inference: Implement lightweight models (e.g., TinyLlama) for on-device processing to enhance privacy and reduce latency.
+	-	Encrypted Vector Memory: Transition from JSON to encrypted, on-device vector databases (e.g., SQLite with pgvector) for secure context storage.
+	-	Cross-Device Continuity: Develop peer-to-peer sync protocols to maintain seamless context across authenticated devices.
+	-	OS-Level AI Intents: Collaborate with platform vendors to integrate standardized AI intent APIs, enabling native Jarvis functions across apps.
+	-	Privacy-First Enclaves: Utilize hardware-backed Trusted Execution Environments (e.g., Intel SGX) to secure personal memory stores.
+	-	Adaptive Power Management: Create dynamic controllers to adjust model operations based on device power and compute availability.
 
 ## Architecture
 
@@ -46,12 +53,7 @@ Jarvis is built with a modular architecture:
 
 ## Requirements
 
-- Python 3.9+
-- PySide6 for desktop UI
-- PyTorch for machine learning components
-- Various audio processing libraries
-- FAISS for vector storage
-- OpenAI API key (optional)
+c
 
 ## Installation
 
